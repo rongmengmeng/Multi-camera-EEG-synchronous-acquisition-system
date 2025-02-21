@@ -1,3 +1,10 @@
+"""
+Author: Haipeng Lin
+Email: 1565073058@qq.com
+Date: 2024-3-14
+Version: 3.0
+"""
+
 # from dlclive import DLCLive, prograss
 
 # Import helper functions and classes written to wrap the RealSense, OpenCV and Kabsch Calibration usage
